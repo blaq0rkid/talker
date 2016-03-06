@@ -1,0 +1,9 @@
+c:\users\kelley\documents\visual studio 2013\Projects\Ch3Ex\Ch3Ex\bin\Debug\Ch3Ex.exe.config
+c:\users\kelley\documents\visual studio 2013\Projects\Ch3Ex\Ch3Ex\bin\Debug\Ch3Ex.exe
+c:\users\kelley\documents\visual studio 2013\Projects\Ch3Ex\Ch3Ex\bin\Debug\Ch3Ex.pdb
+c:\users\kelley\documents\visual studio 2013\Projects\Ch3Ex\Ch3Ex\obj\Debug\Ch3Ex.csprojResolveAssemblyReference.cache
+c:\users\kelley\documents\visual studio 2013\Projects\Ch3Ex\Ch3Ex\obj\Debug\Ch3Ex.Properties.Resources.resources
+c:\users\kelley\documents\visual studio 2013\Projects\Ch3Ex\Ch3Ex\obj\Debug\Ch3Ex.csproj.GenerateResource.Cache
+c:\users\kelley\documents\visual studio 2013\Projects\Ch3Ex\Ch3Ex\obj\Debug\Ch3Ex.exe
+c:\users\kelley\documents\visual studio 2013\Projects\Ch3Ex\Ch3Ex\obj\Debug\Ch3Ex.pdb
+c:\users\kelley\documents\visual studio 2013\Projects\Ch3Ex\Ch3Ex\obj\Debug\Ch3Ex.Form1.resources
